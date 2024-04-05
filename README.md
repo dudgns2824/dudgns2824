@@ -9,3 +9,8 @@
 기술 스택 (실 서비스 적용 해본 기준)
 ---------------------------------------
 <img style="width:84px; height:30px;" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>    <img style="width:84px; height:30px;" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>    <img style="width:84px; height:30px;" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>    <img style="width:84px; height:30px;" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>    <img style="width:84px; height:30px;" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>    <img style="width:84px; height:30px;" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>    <img style="width:84px; height:30px;" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+
+취미
+---------------------------------------
+보디빌딩 (3대 630 및 대회 수상 경력 있음) 헬스 알려드림!
+게임 (롤,롤체 최고티어 마스터~그랜드 마스터)
