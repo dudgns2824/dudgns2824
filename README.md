@@ -4,8 +4,7 @@
 
 공부중인 언어
 ---------------------------------------
-<img style="width:84px; height:30px;" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>    <img style="width:84px; height:30px;" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>    
-<img style="width:84px; height:30px;" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+<img style="width:84px; height:30px;" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>    <img style="width:84px; height:30px;" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>    <img style="width:84px; height:30px;" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
 기술 스택 (실 서비스 적용 해본 기준)
 ---------------------------------------
