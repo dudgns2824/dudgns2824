@@ -10,6 +10,11 @@
 ---------------------------------------
 <img style="width:84px; height:30px;" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white"/>    <img style="width:84px; height:30px;" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>    <img style="width:84px; height:30px;" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"/>    <img style="width:84px; height:30px;" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>    <img style="width:84px; height:30px;" src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>    <img style="width:84px; height:30px;" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"/>    <img style="width:84px; height:30px;" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
 
+현재 하고 있는 일
+---------------------------------------
+현재 시리즈B~C(300억 이상 규모) 투자받은 스타트업 회사에서 KOTLIN + 헥사고널 아키텍쳐로 백엔드 개발 담당을 맡고 있습니다.
+현재 커뮤니티 관련 사이트 및 백엔드 외주를 진행 중 입니다.
+
 취미
 ---------------------------------------
 보디빌딩 (3대 630 및 대회 수상 경력 보유)  
