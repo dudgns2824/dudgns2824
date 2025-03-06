@@ -17,7 +17,7 @@
 백엔드 개발 담당을 맡고 있습니다.  
 https://vboong.com/ 커뮤니티 사이트 개발 (kotlin(spring) + vue 3.0 + 웹소켓 채팅) aws(route53 도메인 + s3 bucket 이미지 + elastic loadbalancing)      
 거래소 사이트 프로젝트 개발 중 (nest + react)       
-https://github.com/dudgns2824/nestjs-trade-project-backend      (hexagonal + ddd)
+https://github.com/dudgns2824/nestjs-trade-project-backend      (hexagonal + ddd + nestjs)
 https://github.com/dudgns2824/react-trade-project-frontend      
 
 취미
