@@ -15,7 +15,7 @@
 현재 앱 다운로드수 100만 이상 B2C 시리즈B~C(300억 이상 규모) 투자받은 스타트업 회사에서 KOTLIN + 헥사고널 아키텍쳐로  
 데이터 별로 도메인을 나눠 도메인 중심 개발 방법으로  
 백엔드 개발 담당을 맡고 있습니다.  
-https://vboong.com/ 커뮤니티 사이트 개발 (kotlin(spring) + vue 3.0 + 웹소켓 채팅) aws(route53 도메인 + s3 bucket 이미지 + elastic loadbalancing)      
+https://vboong.com/ 커뮤니티 사이트 개발 (kotlin(spring) + vue 3.0 + 웹소켓 채팅 + 다이렉트 메세지 실시간 웹소켓+db 저장) aws(route53 도메인 + s3 bucket 이미지 + elastic loadbalancing)      
 거래소 사이트 프로젝트 개발 중 (nest + react)       
 https://github.com/dudgns2824/nestjs-trade-project-backend      (hexagonal + ddd + nestjs)      
 https://github.com/dudgns2824/react-trade-project-frontend      (react + 클린 아키텍쳐)
