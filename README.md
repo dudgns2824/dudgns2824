@@ -30,4 +30,4 @@ https://github.com/dudgns2824/react-trade-project-frontend      (react + 클린 
 백엔드 + 프론트엔드 + DB  
 현재 주로 하는 업무는 백엔드 입니다. (현재 퇴사)
 7년차 개발자 (6년 3개월)  
-나이 : 만 24세(2000년생)
+나이 : 만 25세(2000년생)
